@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bca97a18-469e-4a5d-922d-a8936a908cc2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f4NBCTssiHIWqxWXXUl8imhEh4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientStart">
+    <configuration name="ClientProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.ClientProxy" />
+      <module name="RocTClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.ClientRun" />
+      <module name="RocTClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.ClientStart" />
+      <module name="RocTClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RowDeleteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.RowDeleteDemo" />
+      <module name="RocTClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.Tab1" />
+      <module name="RocTClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientStart" />
+        <item itemvalue="Application.ClientRun" />
+        <item itemvalue="Application.ClientProxy" />
+        <item itemvalue="Application.RowDeleteDemo" />
+        <item itemvalue="Application.Tab1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca97a18-469e-4a5d-922d-a8936a908cc2" name="Default Changelist" comment="" />
+      <created>1595473266500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595473266500</updated>
+      <workItem from="1595473269258" duration="25581000" />
+      <workItem from="1595662551396" duration="4420000" />
+      <workItem from="1595667110219" duration="19616000" />
+      <workItem from="1595819271871" duration="4894000" />
+      <workItem from="1595861036644" duration="3400000" />
+      <workItem from="1595904346096" duration="1646000" />
+      <workItem from="1595907180790" duration="2715000" />
+      <workItem from="1595933963809" duration="229000" />
+      <workItem from="1595991506180" duration="2567000" />
+      <workItem from="1596018783078" duration="1739000" />
+      <workItem from="1596035927807" duration="824000" />
+      <workItem from="1596157992358" duration="16387000" />
+      <workItem from="1596204231756" duration="11333000" />
+      <workItem from="1596246156509" duration="2373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/happy/font/FontConfigManager.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
