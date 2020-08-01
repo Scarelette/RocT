@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="407cd936-a99c-47b5-841d-de3272f65882" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f56nCsj1EB36fFfBjlDY8hNcZL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerStarter">
+    <configuration name="RoundTextField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.RoundTextField" />
+      <module name="RocTServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.ServerStart" />
+      <module name="RocTServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.ServerStarter" />
+      <module name="RocTServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableWithBackground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happy.gui.TableWithBackground" />
+      <module name="RocTServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happy.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sun in RocTServer2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RocTServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sun" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerStarter" />
+        <item itemvalue="Application.ServerStart" />
+        <item itemvalue="Application.TableWithBackground" />
+        <item itemvalue="JUnit.sun in RocTServer2" />
+        <item itemvalue="Application.RoundTextField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407cd936-a99c-47b5-841d-de3272f65882" name="Default Changelist" comment="" />
+      <created>1595495770087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595495770087</updated>
+      <workItem from="1595495773855" duration="16340000" />
+      <workItem from="1595665889048" duration="99000" />
+      <workItem from="1595676644398" duration="10045000" />
+      <workItem from="1595817352387" duration="6390000" />
+      <workItem from="1595902800295" duration="2384000" />
+      <workItem from="1595911625702" duration="1112000" />
+      <workItem from="1595931046228" duration="790000" />
+      <workItem from="1595933645787" duration="547000" />
+      <workItem from="1595985475768" duration="4872000" />
+      <workItem from="1595995324276" duration="3175000" />
+      <workItem from="1596035919012" duration="2022000" />
+      <workItem from="1596095066939" duration="226000" />
+      <workItem from="1596100579530" duration="72000" />
+      <workItem from="1596100741662" duration="47769000" />
+      <workItem from="1596246154091" duration="2390000" />
+      <workItem from="1596249557221" duration="6112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
